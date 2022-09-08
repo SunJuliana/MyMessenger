@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidProjects/MyMessenger/app/src/main/res/layout/activity_create_message.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/MyMessenger/app/src/main/res/layout/activity_receive_message.xml" value="0.1" />
       </map>
     </option>
   </component>
